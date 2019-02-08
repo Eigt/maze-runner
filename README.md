@@ -5,7 +5,7 @@ Upon first entering any room, an enemy is spawned that deterministically visits 
 The player can shoot a projectile in the direction they are "facing" to destroy enemies.
 The game is over once the player exits the maze and reaches the flagpole above ground.
 ________
-Controls :
+Controls :  
 Arrow keys to move  
 Space to fire
 
