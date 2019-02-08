@@ -6,7 +6,7 @@ The player can shoot a projectile in the direction they are "facing" to destroy 
 The game is over once the player exits the maze and reaches the flagpole above ground.
 ________
 Controls :
-Arrow keys to move
+Arrow keys to move  
 Space to fire
 
 *Requires Unity to be installed.
